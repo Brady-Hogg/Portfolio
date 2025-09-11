@@ -4,4 +4,5 @@ layout: main
 permalink: /robosub
 ---
 ## WSU AUV team
-[home](/)
+[Team Webstie](https://robosub.eecs.wsu.edu/)
+
