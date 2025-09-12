@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
 body {
-	background: white;
+	background: url(/photos/background.jpg);
+	background-attachment: fixed;
 	width: 100%;
 	height: 100%;
 	margin: 0;
@@ -11,7 +12,7 @@ body {
 
 main {
 	display: block;
-	/* background: green; */
+	background:#9984ca;
 	margin: 10vh 20vw 10vh;
 	padding: 20px;
 }
@@ -36,7 +37,7 @@ main embed{
 	margin-left: auto;
     margin-right: auto;
 }
-
-
-
-
+main iframe{
+	max-width: 100%;
+}
+@media(max-width:500px){main{margin:0!important;}}
