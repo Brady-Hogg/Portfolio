@@ -18,14 +18,18 @@ main {
 #tabs {
 	font-size: 1em;
 }
-}
-main embed {
-      width:80%;
-      text-align: center;
-}
-main img {
-  width: 80%;
+main img,
+main iframe {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  width: 80%;          /* keeps them from overflowing */
+  max-width: 100%;     /* makes sure they shrink on small screens */
+  height: auto;        /* keeps aspect ratio for images */
 }
+
+main iframe {
+  aspect-ratio: 16 / 9;   /* keeps videos proportional */
+  height: auto;           /* lets browser calculate based on width */
+}
+
