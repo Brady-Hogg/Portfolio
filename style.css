@@ -49,6 +49,7 @@ main iframe{
 
 #tabs a {
   font-size: 1.2rem; /* Increase font size */
+  font-weight: bold;
   text-decoration: none;
   color: #333; /* Customize tab color */
   padding: 8px 12px; /* Add padding for clickable area */
