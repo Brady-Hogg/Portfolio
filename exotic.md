@@ -15,7 +15,10 @@ My resume sums up pretty much everything I disclose:
 -	Designed a TPU hand guard that fits into complex geometry to improve worker safety.
 -	Created a tool to decrease the conductive cooling on a large part sensitive to warping.
 -	Prevented machine downtime by designing a modification to the world’s 2nd largest hydroform press.
--	All designs were drafted to ASME Y14.5 GD&T and approved by the in-house tool and die shop."
+-	All designs were drafted to ASME Y14.5 GD&T and approved by the in-house tool and die shop.
+
+"
+
 ## What AI Can Tell You
 To avoid any issues, here is an AI summary of Exotic Metals as a company. I typically wouldn't use AI to write for me, however it is the only way I can ensure I am using only publically available information to summarize the company:
 
