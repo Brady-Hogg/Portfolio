@@ -25,7 +25,10 @@ main img{
   margin-right: auto;
   width: 80%;          /* keeps them from overflowing */
   max-width: 100%;     /* makes sure they shrink on small screens */
-  height: auto;        /* keeps aspect ratio for images */
+  height: auto;  /* keeps aspect ratio for images */
+}
+main div{
+	max-width: 100%;
 }
 main embed{
 	width:80%;
