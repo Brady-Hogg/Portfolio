@@ -14,7 +14,7 @@ The chassis idea turned out to be a resounding success, however packaging, and t
 
 Here is the video of our one win:
 
-<iframe width="560" height="1000" src="https://www.youtube.com/embed/fQ18DZpSaXQ?si=J0OqgZwj4ZktGJP8&amp;start=3540" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="350" src="https://www.youtube.com/embed/fQ18DZpSaXQ?si=J0OqgZwj4ZktGJP8&amp;start=3540" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 As you can see, mistakes were made. This actually wasn't discouraging at all and I had a ton of fun. If I were do make a V2 of LLV, I would add a shroud over the weapon to support it at both ends, providing better stability or just ditch the angled format all together for a more traditional undercutter.
 
