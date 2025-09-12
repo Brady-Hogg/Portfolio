@@ -8,7 +8,7 @@ The WSU AUV team, [Palouse Robosub](https://robosub.eecs.wsu.edu/), a team for [
 # Reorganizing the club
 This ranges from reorganizing the entire club room, writing a club constiution, creating training resources, technical schedules, leadership structures, sponsor relations, and more all from scratch. Not to mention all of the hours technically I have, and will continue to commit to. The good news is, we are already seeing the results, the two images show our club in the spring of 2025 on the left, on the right is fall 2025 after recruiting.
 <div>
-  <img src="/photos/Team Photo.png">
+  <img src="/photos/Team Photo.png" width="80%">
 </div>
 
 
