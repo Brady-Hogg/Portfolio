@@ -1,1 +1,6 @@
-Blah blah blah my concept stunk
+---
+title: Combat Robotics
+layout: main
+permalink: /crimson
+---
+
