@@ -23,7 +23,7 @@ Although it was a goal of mine to not do any design my senior year, to let the o
 ## 2023 Season - Lead Designer
 As design lead I learned a lot about technical project management and leadership. I help trainings, hosted design reviews, and delegated all design tasks.
 ## Side Climb
-My personal contribution was the Side climb. It was a unique take on the challenge, and we were the only team in the world successfully able to pull off a climb of this technique, in fact, the team that ending up winning the entire world championship, attempted to copy my design, but they were unable to make it work. I attempted to give them assistance, but they declined my help.
+My personal contribution was the side climb. It was a unique take on the challenge, and we were the only team in the world successfully able to pull off a climb of this technique, in fact, the team that ending up winning the entire world championship, attempted to copy my design, but they were unable to make it work. I attempted to give them assistance, but they declined my help.
 Here is a demo video:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IPydrNNPDE4?si=wX_480xKmdkHmuoi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 Here is 16 year old me to explain:
