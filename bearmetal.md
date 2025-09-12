@@ -14,10 +14,15 @@ Historically the team had two design reivews every year, the preliminary, and cr
 ### Shoot out Stabilizers
 Although it was a goal of mine to not do any design my senior year, to let the other members have their moment and for me to focus on systemic improvments. However, at a certain point I had to step back in. The problem was regardling the climb. That year, you had to climb on a horizontal chain, and place a game piece in a small slot. However, out dynamics were such that the rear of our robot was too heavy, and would fall away from the chain. The other challenge was we were already at the legal limit for motors, so we needed a solition that driven or triggered by another mechanism. Here is 17 year old me to explain:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BaliotPneNA?si=-W6JCefut1YF39Lo&amp;start=548" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## 2023 Season - Lead Designer
-
-### Side Climb
-
+As design lead I learned a lot about technical project management and leadership. I help trainings, hosted design reviews, and delegated all design tasks.
+## Side Climb
+My personal contribution was the Side climb. It was a unique take on the challenge, and we were the only team in the world successfully able to pull off a climb of this technique, in fact, the team that ending up winning the entire world championship, attempted to copy my design, but they were unable to make it work. I attempted to give them assistance, but they declinded my help.
+Here is a demo video:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IPydrNNPDE4?si=wX_480xKmdkHmuoi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Here is 16 year old me to explain:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NLt-NnRgAo?si=3vBlztLLNAT8a7DU&amp;start=182" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ## 2022 Season - Manufacturing Member
 This season I learned how to CAD, CAM and run the CNC mill and CNC lathe. This gave me a huge head start in manufacturing and is what landed me my incredible job at the cougshop.
 
