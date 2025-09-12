@@ -26,6 +26,8 @@ main img{
   max-width: 100%;     /* makes sure they shrink on small screens */
   height: auto;        /* keeps aspect ratio for images */
 }
+main embed{width:80%;
+      text-align: center;}
 
 
 
