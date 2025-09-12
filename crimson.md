@@ -23,4 +23,4 @@ The part I spent the most time on was the weapon disc design. It is made with la
   <img src="/photos/WeaponDisk.png" alt="WeaponDisk" style="width: 300px;">
   <img src="/photos/Spinup.png" alt="Spinup" style="width: 300px;">
 </div>
-The other time consuming part was the weapon packaging, the motor we wanted barely fit inside the chassis, this means I had to push the weapon mounting up, which meant I had to make a tiny bearing stack, which I was only able to make work by making a custom lathe pulley, which required a custom groove, which I had to grind a custom lathe tool for. I'd say it was worth it but it exploded anyway.
+The other time consuming part was the weapon packaging. The motor we wanted barely fit inside the chassis, this means I had to push the weapon mounting up, which meant I had to make a tiny bearing stack, which reuired a custom lathe pulley, which required a custom groove, which required a custom lathe tool. I'd say it was worth it but it exploded anyway.
