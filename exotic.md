@@ -20,6 +20,7 @@ My resume sums up pretty much everything I disclose:
 To avoid any issues, here is an AI summary of Exotic Metals as a company. I typically wouldn't use AI to write for me, however it is the only way I can ensure I am using only publically available information to summarize the company:
 
 "
+
 Exotic Metals specializes in the design and fabrication of high-performance sheet-metal assemblies for aerospace applications. Their core strengths include:
 
 - Expertise in super-alloy forming and high-temperature components  
