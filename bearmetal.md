@@ -1,9 +1,19 @@
 #FRC team 2046, [Bear Metal](https://tahomarobotics.org/)
 ## Introduction
-I was on the FRC team at my high school, Bear Metal Robotics, for 3 years. FRC, or [First Robotics Competition](https://www.firstinspires.org/robotics/frc) is a high school program in which schools all over the world compete annually, to design, build and program a 115 lb robot, to compete in a 3 on 3 format. Participating in this was incredibly formative for me. I still will forever be in debt to all of the older students, mentors, and supporters of that team for giving me a life long passion for engineering.
+I was on the FRC team at my high school, Bear Metal Robotics, for 3 years. FRC, or [First Robotics Competition](https://www.firstinspires.org/robotics/frc) is a high school program in which schools all over the world compete annually, to design, build and program a 115 lb robot, to compete in a 3 on 3 format. Participating in this was incredibly formative for me. I still will forever be in debt to all of the older students, mentors, and supporters of that team for giving me a life long passion for engineering (Special thanks to Mr. Collins and Dan Beres).
 ## 2024 Season - President
-
+As president my main goal was to rehaul the way we did our prototyping, pre-season training, design conceptualization and our team communication.
+### Team communication
+There were countless issues of design changes not being properly communicated to manufacturing, the manufacturing team not knowing what parts needed to be made in what order, the assembly group not knowing the parts were done ect. The team was hovering around 100 people, and when your still using lines of communcation that you used when you were 30 people, 10 years ago, it doesn't hold up. Because of this I impliments a small interdisiplinary group, the System Engineers, that their entire job was to over see the team communication, impliment fixes to systemic issues, decide technical priorities, and follow different mechanisms and prototypes from start to finish. This group under my lead was able to reduce the total time from design to finished product by a week, in an 8 week deadline.
+### Pre-Season Training
+I had gotten incredibly tired of the amount of members that existed in the club because there parents dragged them in by the ear every year. To fix this, I implimented a frame work to each sub team that formalized every members training, and their progress. That way if they clearly were not applying themselves, and they would fail the test at the end of the training deadline, we could show to them and their parents that they were taught all of the material. This allowed us to cut more members than ever, which I would not wear as a point of pride, however I can personally say that every person that was cut, *did not want to be there*.
+### Prototyping
+The large reason I implimented group of System Engineers was to clean up our prototyping. What would happen is some group would have a prototype, and then all we would we hear back is anecdotal evidence about how "it performed great" then it was never followed up on. The group of system engineers and I completely changed this, having a group who's entire job was to get a wholistic persepctive on all of these prototypes allowed us to make much more informed decisions.
+### Design conceptualization
+Historically the team had two design reivews every year, the preliminary, and critical design review for the robot. However, after talking with a professional system engineer (thanks Hans Hoppe), he suggested we did a system design review as well. So with his help, I put together a system design review, which we would hold on day 2 of brainstorming, to get the team together and decide not on what mechanisms we wanted, but rather what strategy, design philosophies, and robot architecture was important to us. This was a huge help, looking back the 2023 robot was a terrible concept, executed brilliantly. The 2024 robot was a beautiful concept, with beautiful execution, that fell short with a few technical oversights. I'd much rather fall short technically, then fall short due to poor decision making, as I feel one leads to much better learning as an engineer.
 ## 2023 Season - Lead Designer
+### Side Climb
+
 ## 2022 Season - Manufacturing Member
-I distinctly remember the moment I knew I was going to be an engineer. Before the real season
+This season I learned how to CAD, CAM and run the CNC mill and CNC lathe. This gave me a huge head start in manufacturing and is what landed me my incredible job at the cougshop.
 
