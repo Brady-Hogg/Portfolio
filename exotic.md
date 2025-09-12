@@ -9,7 +9,7 @@ As much as I would love to share what I did at [Exotics Metals](https://www.park
 My resume sums up pretty much everything I disclose:
 
 > - Interpreted drawings for F35 engine components in order to verify tool designs met all requirements.
-> - Investigated numerous quality non-conformances and created planning to solve the issues.
+> - Investigated numerous quality non-conformance's and created planning to solve the issues.
 > -	Prevented tens of thousands of dollars in prevented scrap with an inspection fixture.
 > -	Designed a TPU hand guard that fits into complex geometry to improve worker safety.
 > -	Created a tool to decrease the conductive cooling on a large part sensitive to warping.
@@ -17,7 +17,7 @@ My resume sums up pretty much everything I disclose:
 > -	All designs were drafted to ASME Y14.5 GD&T and approved by the in-house tool and die shop.
 
 ## What AI Can Tell You
-To avoid any issues, here is an AI summary of Exotic Metals as a company. I typically wouldn't use AI to write for me, however it is the only way I can ensure I am using only publically available information to summarize the company:
+To avoid any issues, here is an AI summary of Exotic Metals as a company. I typically wouldn't use AI to write for me, however it is the only way I can ensure I am using only publicly available information to summarize the company:
 
 > Exotic Metals specializes in the design and fabrication of high-performance sheet-metal assemblies for aerospace applications. Their core strengths include:
 > 
@@ -27,7 +27,7 @@ To avoid any issues, here is an AI summary of Exotic Metals as a company. I typi
 > - Specialization in ducts, exhaust, and thermal/airflow management systems  
 > - Proven quality and certification for both OEM and aftermarket support
 
--Chat GPT, using only publically available information.
+-Chat GPT, using only publicly available information.
 <div>
   <img src="photos/F35.png" alt="F35">
 </div>
