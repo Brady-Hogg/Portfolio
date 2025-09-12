@@ -19,8 +19,7 @@ main {
 #tabs {
 	font-size: 1em;
 }
-main img,
-main iframe{
+main img,{
   display: block;
   margin-left: auto;
   margin-right: auto;
