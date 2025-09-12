@@ -28,3 +28,6 @@ To avoid any issues, here is an AI summary of Exotic Metals as a company. I typi
 > - Proven quality and certification for both OEM and aftermarket support
 
 -Chat GPT, using only publically available information.
+<div>
+  <img src="photos/F35.png" alt="F35">
+</div>
