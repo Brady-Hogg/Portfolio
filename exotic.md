@@ -27,6 +27,7 @@ Exotic Metals specializes in the design and fabrication of high-performance shee
 - Integrated engineering support from concept through production  
 - Specialization in ducts, exhaust, and thermal/airflow management systems  
 - Proven quality and certification for both OEM and aftermarket support
+
 "
 
-- Chat GPT, using only publically available information.
+-Chat GPT, using only publically available information.
