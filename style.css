@@ -40,4 +40,23 @@ main embed{
 main iframe{
 	max-width: 100%;
 }
+#tabs {
+  display: flex;
+  gap: 24px; /* Adjust spacing between tabs */
+  justify-content: center; /* Optional: center the tabs */
+  margin: 20px 0; /* Optional: add vertical spacing */
+}
+
+#tabs a {
+  font-size: 1.2rem; /* Increase font size */
+  text-decoration: none;
+  color: #333; /* Customize tab color */
+  padding: 8px 12px; /* Add padding for clickable area */
+  transition: all 0.3s ease; /* Smooth hover effect */
+}
+
+#tabs a:hover {
+  color: #0077cc; /* Change color on hover */
+  text-decoration: underline;
+}
 @media(max-width:500px){main{margin:0!important;}}
