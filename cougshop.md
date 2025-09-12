@@ -22,6 +22,7 @@ The entire reason I made the fixture plate, is I needed to make 5 different, lar
     <img src="/photos/EwBeard.png" alt="EwBeard">
   </section>
 </main>
+
 # Lab Work
 ## 3D Printer Doctor
 Being in a shop with many machining experts, I soak up as much of their knowledge as I can to become better with CNC. However, when it comes to the 3D printers we manage, I have somewhat cemented myself as the "3D printing guy". I enjoy working on 3d printers and have many repairs, setups, prints and diagnoses. The repair that immediatly comes to mind is when the thermoresistor on our Prusa MK3 said it was not being red by the computer. I attempted many different things, like reconnecting the wires, reflashing the firmware, taking apart the sleeve of wires to the hot end to inspect for breaks, swapping our the hot end for another from another printer to see if it would read. After being very confused for a few days, I took the main board out and looked at the fuse for the thermoresistor to find it had been burnt. I unfortunatly don't have any photos but the size of it was at most 0.020"x0.040". So with a new board plugged it in, I flashed new firmware and it worked like a charm.
