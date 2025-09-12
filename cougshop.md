@@ -14,7 +14,14 @@ To first make the parts in the timeline I wanted to, while the design was still 
 I made many mistakes when designing and machining this fixture plate. The first mistake was making the size the exact travel of the mill. This meant that I was unable to properly tram the fixture plate, so although it is close to square, I am unable to use any of the exterior sides of the fixture plate to establish a g54. Instead I use the slots in the fixture plate, as I am able to tram those when I set up the plate in the mill. I also had to take the edge off with a dremel, as the facing operation didn't reach the edge of the fixture plate as I only had a 2" facemill. meaning a plate covering the fixture plate wouldnt sit flat if I didn't do that. It hurt my soul, but I do what I must.
 ## Drifferential Hanger
 The entire reason I made the fixture plate, is I needed to make 5 different, large, 5/8" aluminum parts for the differential hanger assembly. Rather than doing 5 individual parts in vices, which may have had 3 setups each, I was able to reduce it to just 3 setups in total for all 5 parts. Using the technique I described earlier, I programmed the CAM and machined the parts out, they turned out beautifully.
-<main><img src="/photos/DiffHanger.png"></main><main><img src="/photos/EwBeard.png"></main>
+<main>
+  <section>
+    <img src="/photos/DiffHanger.png" alt="DiffHanger">
+  </section>
+  <section>
+    <img src="/photos/EwBeard.png" alt="EwBeard">
+  </section>
+</main>
 # Lab Work
 ## 3D Printer Doctor
 Being in a shop with many machining experts, I soak up as much of their knowledge as I can to become better with CNC. However, when it comes to the 3D printers we manage, I have somewhat cemented myself as the "3D printing guy". I enjoy working on 3d printers and have many repairs, setups, prints and diagnoses. The repair that immediatly comes to mind is when the thermoresistor on our Prusa MK3 said it was not being red by the computer. I attempted many different things, like reconnecting the wires, reflashing the firmware, taking apart the sleeve of wires to the hot end to inspect for breaks, swapping our the hot end for another from another printer to see if it would read. After being very confused for a few days, I took the main board out and looked at the fuse for the thermoresistor to find it had been burnt. I unfortunatly don't have any photos but the size of it was at most 0.020"x0.040". So with a new board plugged it in, I flashed new firmware and it worked like a charm.
