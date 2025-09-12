@@ -18,3 +18,11 @@ main {
 #tabs {
 	font-size: 1em;
 }
+main img {
+      width:80%;
+      text-align: center;
+}
+main embed {
+      width:80%;
+      text-align: center;
+}
