@@ -1,26 +1,31 @@
 <!DOCTYPE html>
 <html lang="en">
-	<head>
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width">
-		<title>{{page.title}} | Brady Hogg</title>
-		<link rel="stylesheet" href="/style.css">
-	</head>
-	<body>
-		<main>
-			<h1>{{page.title}}</h1>
-			<div id="tabs">
-				<a href="/">Home Page</a>
-				<a href="/robosub">Palouse RoboSub</a>
-				<a href="/exotic">Exotic Metals</a>
-				<a href="/cougshop">Coug Shop</a>
-				<a href="/crimson">Combat Robot</a>
-				<a href="/bearmetal">High School Robotics</a>
-				<a href="/navsea">Navsea Metrology</a>
-				
-			</div>
-			<hr>
-			{{content}}
-		</main>
-	</body>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>{{page.title}} | Brady Hogg</title>
+    <link rel="stylesheet" href="/style.css">
+  </head>
+
+  <body>
+    <!-- FULL-WIDTH TOP BANNER -->
+    <header class="site-header">
+      <h1 class="site-title">{{page.title}}</h1>
+
+      <nav class="tabs">
+        <a href="/">Home Page</a>
+        <a href="/robosub">Palouse RoboSub</a>
+        <a href="/exotic">Exotic Metals</a>
+        <a href="/cougshop">Coug Shop</a>
+        <a href="/crimson">Combat Robot</a>
+        <a href="/bearmetal">High School Robotics</a>
+        <a href="/navsea">Navsea Metrology</a>
+      </nav>
+    </header>
+
+    <!-- CENTERED SCROLLING CONTENT -->
+    <main class="content">
+      {{content}}
+    </main>
+  </body>
 </html>
