@@ -3,6 +3,7 @@ title: Combat Robotics
 layout: main
 permalink: /crimson
 ---
+<div class="hero-image hero-crimson"></div>
 # LLV
 In my Freshman year I joined the Combat Robotics Club and made a slanted horizontal spinner. We differentiated our bot from the competition in two different ways, our chassis was made entirely from a single PETG print, and our spinner was slanted downward at a slight angle. The mono-print chassis reduced the assembly required and made it stronger, and the slanted weapon was an attempt to attack common wheel hights and attack horizontal under-cutter's pulleys. 
   <div>
