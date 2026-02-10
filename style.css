@@ -9,9 +9,8 @@ html, body {
 body {
   background: url(/photos/mat.avif);
   background-attachment: fixed;
-  max-width: 1400px;
   height: 100%;
-  margin: 0 auto;
+  margin: 0;
   font-family: Roboto, system-ui, sans-serif;
   font-size: large;
 }
@@ -20,12 +19,7 @@ body {
 }
 /* ===== FULL-WIDTH HEADER ===== */
 .site-header {
-  width: 100vw;
-  position: relative;
-  left: 50%;
-  right: 50%;
-  margin-left: -50vw;
-  margin-right: -50vw;
+  width: 100%;
   background: #a60f2d;
   padding: 1.5rem 0;
   margin-bottom: 0;
@@ -62,18 +56,12 @@ body {
 }
 /* ===== HERO IMAGE ===== */
 .hero-image {
-  width: 100vw;
-  position: relative;
-  left: 50%;
-  right: 50%;
-  margin-left: -50vw;
-  margin-right: -50vw;
+  width: 100%;
   height: 80vh;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  margin-top: 0;
-  margin-bottom: 0;
+  margin: 0;
 }
 /* Different images for each page */
 .hero-home { background-image: url(/photos/Cheese.jpg); }
@@ -86,8 +74,9 @@ body {
 /* ===== MAIN CONTENT ===== */
 .content {
   background: #faf1f0;
+  max-width: 1400px;
   width: 100%;
-  margin: 0;
+  margin: 0 auto;
   padding: 20px;
 }
 /* ===== MEDIA HANDLING ===== */
