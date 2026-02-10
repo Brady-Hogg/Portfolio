@@ -20,7 +20,12 @@ body {
 }
 /* ===== FULL-WIDTH HEADER ===== */
 .site-header {
-  width: 100%;
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
   background: #a60f2d;
   padding: 1.5rem 0;
   margin-bottom: 0;
@@ -57,12 +62,18 @@ body {
 }
 /* ===== HERO IMAGE ===== */
 .hero-image {
-  width: 100%;
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
   height: 80vh;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  margin: 0;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 /* Different images for each page */
 .hero-home { background-image: url(/photos/Cheese.jpg); }
