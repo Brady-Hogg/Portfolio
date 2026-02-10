@@ -2,7 +2,7 @@
 layout: main
 title: Brady Hogg, Mechanical Engineer
 ---
-
+<div class="hero-image hero-home"></div>
 ## Welcome to My Portfolio Website!
 My name is Brady Hogg, and I am a mechanical Engineering student at Washington State University. This "portfolio" is more of a place where I am able to really tell the story of who I am as an engineer, how I got there, and me sharing a lot of the cool things I have gotten to work on. **I do apologize, it is not very concise, but I wanted to have a place to put all of this information.**
 
