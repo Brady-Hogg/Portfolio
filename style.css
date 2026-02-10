@@ -65,13 +65,13 @@ body {
   margin: 0;
 }
 /* Different images for each page */
-.hero-home { background-image: url(/photos/F35.png); }
-.hero-robosub { background-image: url(/photos/robosub.jpg); }
-.hero-exotic { background-image: url(/photos/exotic.jpg); }
-.hero-cougshop { background-image: url(/photos/cougshop.jpg); }
-.hero-crimson { background-image: url(/photos/crimson.jpg); }
-.hero-bearmetal { background-image: url(/photos/bearmetal.jpg); }
-.hero-navsea { background-image: url(/photos/navsea.jpg); }
+.hero-home { background-image: url(/photos/Cheese.jpg); }
+.hero-robosub { background-image: url(/photos/robosub_logo.png); }
+.hero-exotic { background-image: url(/photos/F35.png); }
+.hero-cougshop { background-image: url(/photos/DiffHanger.png); }
+.hero-crimson { background-image: url(/photos/LLVIRL.PNG); }
+.hero-bearmetal { background-image: url(/photos/Bearitone.HEIC); }
+.hero-navsea { background-image: url(/photos/bigbadevilboats.jpg); }
 /* ===== MAIN CONTENT ===== */
 .content {
   background: #faf1f0;
