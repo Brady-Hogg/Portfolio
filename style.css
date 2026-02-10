@@ -23,6 +23,7 @@ body {
   width: 100%;
   background: #a60f2d;
   padding: 1.5rem 0;
+  margin-bottom: 0;
 }
 /* Center header contents */
 .site-header > * {
@@ -61,21 +62,21 @@ body {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  margin-bottom: 2rem;
+  margin: 0;
 }
 /* Different images for each page */
-.hero-home { background-image: url(/photos/Cheese.jpg); }
-.hero-robosub { background-image: url(/photos/Team Photo.png); }
-.hero-exotic { background-image: url(/photos/F35.png); }
-.hero-cougshop { background-image: url(/photos/EwBeard.png); }
-.hero-crimson { background-image: url(/photos/LLVIRL.png); }
-.hero-bearmetal { background-image: url(/photos/LLV.png); }
-.hero-navsea { background-image: url(/photos/fixture.png); }
+.hero-home { background-image: url(/photos/F35.png); }
+.hero-robosub { background-image: url(/photos/robosub.jpg); }
+.hero-exotic { background-image: url(/photos/exotic.jpg); }
+.hero-cougshop { background-image: url(/photos/cougshop.jpg); }
+.hero-crimson { background-image: url(/photos/crimson.jpg); }
+.hero-bearmetal { background-image: url(/photos/bearmetal.jpg); }
+.hero-navsea { background-image: url(/photos/navsea.jpg); }
 /* ===== MAIN CONTENT ===== */
 .content {
   background: #faf1f0;
   width: 100%;
-  margin: 10vh 0;
+  margin: 0;
   padding: 20px;
 }
 /* ===== MEDIA HANDLING ===== */
