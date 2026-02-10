@@ -3,6 +3,7 @@ title: Coug Shop Machinist
 layout: main
 permalink: /cougshop
 ---
+<div class="hero-image hero-cougshop"></div>
 # Introduction
 The Coug Shop is the lab where they teach the 300 level manufacturing course, machine students' capstone projects and, most importantly, where the student employees get to play around with CNC machinery to make club parts and personal projects (thanks Kurt).
 I knew going into WSU I really wanted to get involved with the Coug Shop, and an Alumni of my high school robotics team, Justin Newton, worked as a student employee at the Coug Shop, which is the role I have now. Justin knew who I was and my CNC background from highschool, so he was able to put in a good reference for me and help me get the job I have now. I absolutely love this job. I love CNC machining, CAM, making cool projects, fixing and understanding machinery and teaching people, all of which are part of my role in the shop.
