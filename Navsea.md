@@ -3,6 +3,7 @@ title: Navsea Intern
 layout: main
 permalink: /navsea
 ---
+<div class="hero-image hero-navsea"></div>
 # NREIP Research
 This was a fall internship I did with the Department of the Navy through the Naval Research Enterprise Internship Program (NREIP). I worked with the Corona Surface Warfare Center's metrology department remotely to research alternatives to their current verification equipment. I had to ensure that all suggestions brought something unique to the table such as price, service, form factor, etc. all the while maintaining a similar level of tolerance to the old specification. I then took all of this information and boiled it down to a concise oral presentation and an accompanying zip file with all of the data sheets, price information and some contact info.
 ## Flow Generators
