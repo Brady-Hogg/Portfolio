@@ -3,7 +3,7 @@ title: Bear Metal
 layout: main
 permalink: /bearmetal
 ---
-  
+<div class="hero-image hero-bearmetal"></div> 
 ## Introduction
 I was on the FRC team at my high school, [Bear Metal](https://tahomarobotics.org/), for 3 years. FRC, or [First Robotics Competition](https://www.firstinspires.org/robotics/frc) is a high school program in which schools all over the world compete annually, to design, build and program a 115 lb robot, to compete in a 3 on 3 format. Participating in this was incredibly formative for me. I still will forever be in debt to all of the older students, mentors, and supporters of that team for giving me a life long passion for engineering (Special thanks to Mr. Collins and Dan Beres). In my three years on the team, we won more events than in any other three year stretch in the history of the team. This includes a district championship win and becoming the team with the most wins historically in the entire PNW.
 ## 2024 Season - President
