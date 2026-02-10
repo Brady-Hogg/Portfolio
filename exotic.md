@@ -3,6 +3,7 @@ title: Manufacturing Engineering Intern
 layout: main
 permalink: /exotic
 ---
+<div class="hero-image hero-exotic"></div>
 # Introduction
 As much as I would love to share what I did at [Exotics Metals](https://www.parker.com/us/en/divisions/exotic-metals-forming-division.html), I am under NDA as well as Exotic Metals participating in ITAR contracts, which most of my summer work involved. You'll just have to trust me that it was all super awesome, I learned a ton and I did an excellent job. I can share a funny interaction I had with the engineering director; He asked me if I was the Doogie Howsier he heard about, as I was 18 at the time of working there. To which I responded that I was too young to get that reference, not realizing how funny what I just said was. 
 ## What I Can Tell You
