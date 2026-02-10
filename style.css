@@ -1,14 +1,24 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
-
 /* ===== GLOBAL ===== */
+html, body {
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
 body {
   background: url(/photos/mat.avif);
   background-attachment: fixed;
   max-width: 1400px;
   height: 100%;
-  margin: 0;
+  margin: 0 auto;
   font-family: Roboto, system-ui, sans-serif;
   font-size: large;
+}
+
+* {
+  box-sizing: border-box;
 }
 
 /* ===== FULL-WIDTH HEADER ===== */
@@ -16,9 +26,7 @@ body {
   width: 100%;
   background: #a60f2d;
   padding: 1.5rem 0;
-
 }
-
 /* Center header contents */
 .site-header > * {
   max-width: 1400px;
@@ -39,7 +47,6 @@ body {
 .site-title {
   margin: 0 0 1rem 0;
 }
-
 /* ===== NAV TABS ===== */
 .tabs {
   display: flex;
@@ -48,7 +55,6 @@ body {
   justify-content: center;
   margin: 10px 0;
 }
-
 .tabs a {
   font-size: 1.2rem;
   font-weight: bold;
@@ -57,12 +63,10 @@ body {
   padding: 8px 12px;
   transition: all 0.3s ease;
 }
-
 .tabs a:hover {
   color: #0077cc;
   text-decoration: underline;
 }
-
 /* ===== MAIN CONTENT ===== */
 .content {
   background: #faf1f0;
@@ -70,7 +74,6 @@ body {
   margin: 10vh 0;
   padding: 20px;
 }
-
 /* ===== MEDIA HANDLING ===== */
 .content img {
   display: block;
@@ -80,22 +83,18 @@ body {
   max-width: 100%;
   height: auto;
 }
-
 .content div {
   max-width: 100%;
 }
-
 .content embed {
   width: 80%;
   text-align: center;
   margin-left: auto;
   margin-right: auto;
 }
-
 .content iframe {
   max-width: 100%;
 }
-
 /* ===== MOBILE ===== */
 @media (max-width: 500px) {
   .content {
