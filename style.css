@@ -6,7 +6,6 @@ html, body {
   padding: 0;
   width: 100%;
 }
-
 body {
   background: url(/photos/mat.avif);
   background-attachment: fixed;
@@ -16,11 +15,9 @@ body {
   font-family: Roboto, system-ui, sans-serif;
   font-size: large;
 }
-
 * {
   box-sizing: border-box;
 }
-
 /* ===== FULL-WIDTH HEADER ===== */
 .site-header {
   width: 100%;
@@ -32,16 +29,6 @@ body {
   max-width: 1400px;
   margin: 0 auto;
   padding: 0 1rem;
-}
-.site-header::before {
-  content: "";
-  position: absolute;
-  inset: 0;
-  background-image: url(/photos/F35.png);
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  z-index: -1;
 }
 /* Title */
 .site-title {
@@ -67,6 +54,23 @@ body {
   color: #0077cc;
   text-decoration: underline;
 }
+/* ===== HERO IMAGE ===== */
+.hero-image {
+  width: 100%;
+  height: 80vh;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin-bottom: 2rem;
+}
+/* Different images for each page */
+.hero-home { background-image: url(/photos/Cheese.jpg); }
+.hero-robosub { background-image: url(/photos/Team Photo.png); }
+.hero-exotic { background-image: url(/photos/F35.png); }
+.hero-cougshop { background-image: url(/photos/EwBeard.png); }
+.hero-crimson { background-image: url(/photos/LLVIRL.png); }
+.hero-bearmetal { background-image: url(/photos/LLV.png); }
+.hero-navsea { background-image: url(/photos/fixture.png); }
 /* ===== MAIN CONTENT ===== */
 .content {
   background: #faf1f0;
