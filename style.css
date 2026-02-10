@@ -4,7 +4,7 @@
 body {
   background: url(/photos/mat.avif);
   background-attachment: fixed;
-  width: 100%;
+  max-width: 1400px;
   height: 100%;
   margin: 0;
   font-family: Roboto, system-ui, sans-serif;
