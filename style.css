@@ -64,9 +64,9 @@ body {
 
 /* ===== MAIN CONTENT ===== */
 .content {
-  background: #ccb988;
-  max-width: 900px;
-  margin: 10vh auto;
+  background: #91e6d7;
+  width: 100%;
+  margin: 10vh 0;
   padding: 20px;
 }
 
